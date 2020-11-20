@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "W42Qmb5sR4rOq1hJteU/iOdvon68XeYiBncUi98V340d0dNIpkd9AeGf9YNpKxis1hfo30jZIDE9mhBBmkqBsw==",
+  "dgSpecHash": "O86DsTNI88dnHDpBaFBwMRmC0Z6msNZjgPMU8QU/WpLYVH/wO9XyEbh5+aUbV7Q71YwlN2p1i8gDSqj8yEIWTQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\tahung\\source\\repos\\QDSpace\\QDSpace.BackendServer\\QDSpace.BackendServer.csproj",
   "expectedPackageFiles": [
@@ -38,7 +38,8 @@
     "C:\\Users\\tahung\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
     "C:\\Users\\tahung\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\tahung\\.nuget\\packages\\microsoft.extensions.dependencymodel\\2.0.4\\microsoft.extensions.dependencymodel.2.0.4.nupkg.sha512",
-    "C:\\Users\\tahung\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.1.0\\microsoft.extensions.fileproviders.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\tahung\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\tahung\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\5.0.0\\microsoft.extensions.fileproviders.embedded.5.0.0.nupkg.sha512",
     "C:\\Users\\tahung\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.1.0\\microsoft.extensions.hosting.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\tahung\\.nuget\\packages\\microsoft.extensions.identity.core\\5.0.0\\microsoft.extensions.identity.core.5.0.0.nupkg.sha512",
     "C:\\Users\\tahung\\.nuget\\packages\\microsoft.extensions.identity.stores\\5.0.0\\microsoft.extensions.identity.stores.5.0.0.nupkg.sha512",
@@ -111,7 +112,7 @@
     "C:\\Users\\tahung\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
     "C:\\Users\\tahung\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
     "C:\\Users\\tahung\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
-    "C:\\Users\\tahung\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\tahung\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\tahung\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\tahung\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\tahung\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",

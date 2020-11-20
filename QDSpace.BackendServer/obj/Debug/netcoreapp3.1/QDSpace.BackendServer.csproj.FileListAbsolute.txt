@@ -1,0 +1,8 @@
+C:\Users\tahung\source\repos\QDSpace\QDSpace.BackendServer\obj\Debug\netcoreapp3.1\QDSpace.BackendServer.AssemblyInfoInputs.cache
+C:\Users\tahung\source\repos\QDSpace\QDSpace.BackendServer\obj\Debug\netcoreapp3.1\QDSpace.BackendServer.AssemblyInfo.cs
+C:\Users\tahung\source\repos\QDSpace\QDSpace.BackendServer\obj\Debug\netcoreapp3.1\QDSpace.BackendServer.csproj.CoreCompileInputs.cache
+C:\Users\tahung\source\repos\QDSpace\QDSpace.BackendServer\obj\Debug\netcoreapp3.1\QDSpace.BackendServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tahung\source\repos\QDSpace\QDSpace.BackendServer\obj\Debug\netcoreapp3.1\QDSpace.BackendServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tahung\source\repos\QDSpace\QDSpace.BackendServer\obj\Debug\netcoreapp3.1\QDSpace.BackendServer.RazorAssemblyInfo.cache
+C:\Users\tahung\source\repos\QDSpace\QDSpace.BackendServer\obj\Debug\netcoreapp3.1\QDSpace.BackendServer.RazorAssemblyInfo.cs
+C:\Users\tahung\source\repos\QDSpace\QDSpace.BackendServer\obj\Debug\netcoreapp3.1\QDSpace.BackendServer.csprojAssemblyReference.cache

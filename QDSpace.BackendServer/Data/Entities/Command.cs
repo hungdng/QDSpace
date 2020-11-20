@@ -20,4 +20,3 @@ namespace QDSpace.BackendServer.Data.Entities
         public string Name { get; set; }
     }
 }
-}

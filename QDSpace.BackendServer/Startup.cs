@@ -1,9 +1,12 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using QDSpace.BackendServer.Data;
+using QDSpace.BackendServer.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,7 +26,16 @@ namespace QDSpace.BackendServer
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // var secret = new IdentityServer4.Models.Secret("secret".Sha256());
+            //1. Setup entity framework
+            services.AddDbContextPool<ApplicationDbContext>(options =>
+                options.UseSqlServer(
+                    Configuration.GetConnectionString("DefaultConnection")));
             services.AddRazorPages();
+
+
+            services.AddTransient<DbInitializer>();
+            services.AddTransient<ISequenceService, SequenceService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

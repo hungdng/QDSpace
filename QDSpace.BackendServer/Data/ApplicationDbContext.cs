@@ -46,6 +46,9 @@ namespace QDSpace.BackendServer.Data
             builder.Entity<IdentityRole>().Property(x => x.Id).HasMaxLength(50).IsUnicode(false);
             builder.Entity<User>().Property(x => x.Id).HasMaxLength(50).IsUnicode(false);
 
+            builder.Entity<Permission>()
+                      .HasKey(c => new { c.RoleId, c.FunctionId, c.CommandId });
+
             builder.Entity<CommandInFunction>()
                        .HasKey(c => new { c.CommandId, c.FunctionId });
 
