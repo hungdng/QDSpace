@@ -1,0 +1,9 @@
+D:\WORK\C#\QDSpace\QDSpace.ViewModels\bin\Debug\netcoreapp3.1\QDSpace.ViewModels.deps.json
+D:\WORK\C#\QDSpace\QDSpace.ViewModels\bin\Debug\netcoreapp3.1\QDSpace.ViewModels.dll
+D:\WORK\C#\QDSpace\QDSpace.ViewModels\bin\Debug\netcoreapp3.1\QDSpace.ViewModels.pdb
+D:\WORK\C#\QDSpace\QDSpace.ViewModels\obj\Debug\netcoreapp3.1\QDSpace.ViewModels.csprojAssemblyReference.cache
+D:\WORK\C#\QDSpace\QDSpace.ViewModels\obj\Debug\netcoreapp3.1\QDSpace.ViewModels.AssemblyInfoInputs.cache
+D:\WORK\C#\QDSpace\QDSpace.ViewModels\obj\Debug\netcoreapp3.1\QDSpace.ViewModels.AssemblyInfo.cs
+D:\WORK\C#\QDSpace\QDSpace.ViewModels\obj\Debug\netcoreapp3.1\QDSpace.ViewModels.csproj.CoreCompileInputs.cache
+D:\WORK\C#\QDSpace\QDSpace.ViewModels\obj\Debug\netcoreapp3.1\QDSpace.ViewModels.dll
+D:\WORK\C#\QDSpace\QDSpace.ViewModels\obj\Debug\netcoreapp3.1\QDSpace.ViewModels.pdb

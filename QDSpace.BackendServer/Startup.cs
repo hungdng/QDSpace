@@ -28,14 +28,14 @@ namespace QDSpace.BackendServer
         {
             // var secret = new IdentityServer4.Models.Secret("secret".Sha256());
             //1. Setup entity framework
-            services.AddDbContextPool<ApplicationDbContext>(options =>
-                options.UseSqlServer(
-                    Configuration.GetConnectionString("DefaultConnection")));
-            services.AddRazorPages();
+            //services.AddDbContextPool<ApplicationDbContext>(options =>
+            //    options.UseSqlServer(
+            //        Configuration.GetConnectionString("DefaultConnection")));
+            //services.AddRazorPages();
 
 
-            services.AddTransient<DbInitializer>();
-            services.AddTransient<ISequenceService, SequenceService>();
+            //services.AddTransient<DbInitializer>();
+            //services.AddTransient<ISequenceService, SequenceService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tahung\\source\\repos\\QDSpace\\QDSpace.BackendServer\\QDSpace.BackendServer.csproj": {}
+    "D:\\WORK\\C#\\QDSpace\\QDSpace.BackendServer\\QDSpace.BackendServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tahung\\source\\repos\\QDSpace\\QDSpace.BackendServer\\QDSpace.BackendServer.csproj": {
+    "D:\\WORK\\C#\\QDSpace\\QDSpace.BackendServer\\QDSpace.BackendServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tahung\\source\\repos\\QDSpace\\QDSpace.BackendServer\\QDSpace.BackendServer.csproj",
+        "projectUniqueName": "D:\\WORK\\C#\\QDSpace\\QDSpace.BackendServer\\QDSpace.BackendServer.csproj",
         "projectName": "QDSpace.BackendServer",
-        "projectPath": "C:\\Users\\tahung\\source\\repos\\QDSpace\\QDSpace.BackendServer\\QDSpace.BackendServer.csproj",
-        "packagesPath": "C:\\Users\\tahung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tahung\\source\\repos\\QDSpace\\QDSpace.BackendServer\\obj\\",
+        "projectPath": "D:\\WORK\\C#\\QDSpace\\QDSpace.BackendServer\\QDSpace.BackendServer.csproj",
+        "packagesPath": "C:\\Users\\HUNG\\.nuget\\packages\\",
+        "outputPath": "D:\\WORK\\C#\\QDSpace\\QDSpace.BackendServer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tahung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HUNG\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,10 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://cxp-deploy05.westeurope.cloudapp.azure.com:81/nuget/pre-release": {},
-          "http://cxp-deploy05.westeurope.cloudapp.azure.com:81/nuget/release": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nugetized.blob.core.windows.net/live-reload/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {

@@ -10,7 +10,7 @@ using QDSpace.BackendServer.Data;
 namespace QDSpace.BackendServer.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20201120074355_InitialCreate")]
+    [Migration("20201120172847_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
